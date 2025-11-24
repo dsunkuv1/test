@@ -1,0 +1,57 @@
+C:\JPMC\DEV\TMP\ds\tools\sophia-cli\latest\
+C:\JPMC\DEV\TMP\ds\tools\sic-cli\latest
+C:\JPMC\DEV\TMP\ds\tools\sch-cli\latest
+C:\JPMC\DEV\TMP\ds\tools\pcl\latest
+C:\JPMC\DEV\TMP\ds\tools\oracle-sql-developer\latest
+C:\JPMC\DEV\TMP\ds\tools\npp\latest
+C:\JPMC\DEV\TMP\ds\tools\klogin\latest
+C:\JPMC\DEV\TMP\ds\tools\jq\latest
+C:\JPMC\DEV\TMP\ds\tools\gvp-cli\latest\bin
+C:\JPMC\DEV\TMP\ds\tools\github-cli\latest
+C:\JPMC\DEV\TMP\ds\tools\git\latest\cmd
+C:\JPMC\DEV\TMP\ds\tools\git\latest\usr\bin
+C:\JPMC\DEV\TMP\ds\tools\eac-cli\latest\
+C:\JPMC\DEV\TMP\ds\tools\dbeaver\latest\
+C:\JPMC\DEV\TMP\ds\tools\curl\latest\bin
+C:\JPMC\DEV\TMP\ds\tools\buildi-cli\latest
+C:\JPMC\DEV\TMP\ds\tools\bruno\latest\bin
+C:\JPMC\DEV\TMP\ds\tools\bitbucket-cli\latest
+C:\JPMC\DEV\TMP\ds\tools\aws-ssm\latest\bin
+C:\JPMC\DEV\TMP\ds\tools\awm-python-training\latest
+C:\JPMC\DEV\TMP\ds\tools\acmctl\latest
+C:\JPMC\DEV\TMP\ds\tools\vscode1.102\latest\bin
+C:\JPMC\DEV\TMP\ds\tools\tfl-cli\latest\bin
+C:\JPMC\DEV\TMP\ds\tools\terraform1.9\latest
+C:\JPMC\DEV\TMP\ds\tools\python3.13\latest\Scripts
+C:\JPMC\DEV\TMP\ds\tools\python3.13\latest
+C:\JPMC\DEV\TMP\ds\data\npm22
+C:\JPMC\DEV\TMP\ds\tools\nodejs22\latest
+C:\JPMC\DEV\TMP\ds\tools\maven3.9\latest\bin
+C:\JPMC\DEV\TMP\ds\tools\kubectl1.32\latest
+C:\JPMC\DEV\TMP\ds\tools\jdk11\latest\bin
+C:\JPMC\DEV\TMP\ds\tools\aws-cli2\latest\
+C:\JPMC\DEV\TMP\ds\tools\eac-cli\latest\
+C:\JPMC\DEV\TMP\ds\tools\bruno\latest\bin
+C:\JPMC\DEV\TMP\ds\tools\acmctl\latest
+C:\JPMC\DEV\TMP\ds\tools\dev-shell-cli\2.4.1\bin
+C:\JPMC\DEV\TMP\ds\tools\dev-shell-cli\2.4.1\conemu\ConEmu\Scripts
+C:\JPMC\DEV\TMP\ds\tools\dev-shell-cli\2.4.1\conemu\ConEmu\..\..\bin
+C:\JPMC\DEV\TMP\ds\tools\dev-shell-cli\2.4.1\conemu
+C:\JPMC\DEV\TMP\ds\tools\dev-shell-cli\2.4.1\conemu\ConEmu
+C:\Program Files (x86)\Common Files\Oracle\Java\java8path
+C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+C:\Program Files (x86)\Micro Focus\Reflection\
+C:\Program Files\Micro Focus\Reflection\
+C:\windows\system32
+C:\windows
+C:\windows\System32\Wbem
+C:\windows\System32\WindowsPowerShell\v1.0\
+C:\Program Files\aim\aim-install\bin\
+C:\Program Files\PKWARE\SCCLI
+C:\Program Files\dotnet\
+C:\Program Files\Citrix\System32\
+C:\Program Files\Citrix\ICAService\
+C:\Program Files\JPMC\Security\Bin
+C:\Program Files\Teradata\Client\20.00\bin
+C:\Program Files (x86)\Teradata\Client\20.00\bin
+C:\Users\V624270\AppData\Local\Microsoft\WindowsApps 
